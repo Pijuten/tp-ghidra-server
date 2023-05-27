@@ -81,3 +81,5 @@
   permissions: read-only
 - ghidraName: Polaris
   permissions: read-only
+- ghidraName: Pijuten
+  permissions: read-only
